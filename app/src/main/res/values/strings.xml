@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cse</string>
+    <string name="button1">MAA301</string>
+    <string name="button2">CSB301</string>
+    <string name="button3">CSB302</string>
+    <string name="button4">CSB304</string>
+    <string name="button5">IBC501</string>
+    <string name="button6">IBC502</string>
+    <string name="button7">IBC503</string>
+    <string name="button8">ITD355</string>
+    <string name="button9">IBC531</string>
+    <string name="button10">CSB332</string>
+    <string name="button11">CSB333</string>
+    <string name="button12">CSB334</string>
+    <string name="button13">ELA331</string>
+</resources>
